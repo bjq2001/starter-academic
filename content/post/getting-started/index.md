@@ -40,15 +40,18 @@ categories:
 
 ## Sakura
 
-{{< figure src="1.jpg" title="Sakura beside XuanWu Lake, Nanjing, 2021 Spring" >}}
+![jpg](./1.jpg)
+Sakura beside XuanWu Lake, Nanjing, 2021 Spring
 
 ## Cat
 
-{{< figure src="2.jpg" title="Lovely cat, Yezi Cafe, Harbin, 2020" >}}
+![jpg](./2.jpg)
+Lovely cat, Yezi Cafe, Harbin, 2020
 
 ## Lake
 
-{{< figure src="3.jpg" title="Yangshan Lake, Yangshan Park, Nanjing, 2020 Winter" >}}
+![jpg](./3.jpg)
+Yangshan Lake, Yangshan Park, Nanjing, 2020 Winter
 
 ## See More
 

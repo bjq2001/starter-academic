@@ -57,5 +57,3 @@ highlight_name: false
 
 Jingqi Ben is a sophomore in the experimental class of computer science and financial engineering in Nanjing University. She is minoring in the experimental class of art and cultural creation, set up by the School of Arts.
 
-贲靖淇是南京大学计算机与金融工程实验班的一名大二学生，她同时在艺术学院开设的艺术与文化创意实验班辅修课程。
-

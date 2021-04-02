@@ -24,15 +24,15 @@ email: 191850007@smail.nju.edu.cn
 phone: 153 0451 0936
 address:
   street: 163 XianLin Avenue
-  city: NanJing
-  region: JiangSu Province
+  city: Nanjing
+  region: Jiangsu Province
   postcode: '210000'
   country: China
   country_code: CN
 coordinates:
   latitude: '32.04'
   longitude: '118.78'
-directions: NanJing University
+directions: Nanjing University
 # Site header
 
 main_menu:
@@ -82,19 +82,12 @@ copyright_license:
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: ''
 abstract_length: 135
 plugins_js: []
 avatar:
   gravatar: false
   shape: circle
-publications:
-  date_format: January 2006
-  citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
 breadcrumb:
   page_types:
     book: true
@@ -112,7 +105,7 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
+  provider: ''
   algolia:
     app_id: ''
     api_key: ''
