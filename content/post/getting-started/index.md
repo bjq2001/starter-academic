@@ -9,10 +9,10 @@ summary: Welcome 👋 I would like to share some of my favorite pictures taken b
 projects: []
 
 # Date published
-date: "2021-04-03T00:00:00Z"
+date: "2021-04-02T00:00:00Z"
 
 # Date updated
-lastmod: "2021-04-03T00:00:00Z"
+lastmod: "2021-04-02T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false

@@ -21,7 +21,7 @@ feature:
   icon_pack: fas
   name: Photography
 - description: 60%
-  icon: code
+  icon: r-project
   icon_pack: fab
   name: Programming
 - description: 50%
